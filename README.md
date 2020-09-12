@@ -1,6 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Trafalgar - Landing page for a healthcare startup
 
-## Getting Started
+I built this project for learning purposes. While building this project my goal was to get better understanding of the following technologies:
+
+- Next.js
+- SASS
 
 First, run the development server:
 
