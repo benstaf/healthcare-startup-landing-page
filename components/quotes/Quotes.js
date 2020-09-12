@@ -40,7 +40,7 @@ const Quotes = () => {
 
     return (
 
-        <div>
+        <div className="quotes-container">
             <div className="quotes">
                 <h2>What our customer are saying</h2>
                 <div className="border"></div>

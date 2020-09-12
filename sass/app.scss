@@ -168,12 +168,12 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 0 3rem 12rem 6rem;
+  padding: 0 3rem 10rem 6rem;
   align-items: center;
   overflow: hidden;
   @media screen and (max-width: 960px) {
     flex-direction: column;
-    padding: 0 0 12rem 2rem;
+    padding: 0 0 10rem 2rem;
   }
   &__text-box {
     @media screen and (max-width: 960px) {
@@ -219,7 +219,7 @@ body {
 .services {
   padding-right: 50px;
   padding-left: 50px;
-  margin-bottom: 12rem;
+  margin-bottom: 10rem;
   position: relative;
   &::before {
     background-image: url(../public/assets/bg-element-1.svg);
@@ -310,12 +310,12 @@ body {
 .providers {
   display: flex;
   justify-content: space-between;
-  padding: 0 3rem 12rem 6rem;
+  padding: 0 3rem 10rem 6rem;
   align-items: center;
   overflow: hidden;
   @media screen and (max-width: 960px) {
     flex-direction: column;
-    padding: 0 0 12rem 2rem;
+    padding: 0 0 10rem 2rem;
   }
   .border {
     position: relative;
@@ -364,72 +364,107 @@ body {
   }
 }
 
-.quotes {
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
-  align-items: center;
-  margin: 40px auto;
-  padding: 4rem;
-  max-width: 80%;
-  background: linear-gradient(208.18deg, #67c3f3 9.05%, #5a98f2 76.74%);
-  border-radius: 2rem;
-
-  h2 {
-    display: inline-block;
-    font-size: 3rem;
-    margin-bottom: 1.6rem;
-    color: #fff;
+.quotes-container {
+  padding: 0 6rem 5rem 6rem;
+  @media screen and (max-width: 960px) {
+    padding-right: 3rem;
+    padding-left: 3rem;
   }
-
-  .border {
-    position: relative;
-    width: 7%;
-    height: 3px;
-    background-color: #fff;
-    margin: 0 auto;
-    @media only screen and (max-width: 960px) {
-      width: 25%;
-    }
-  }
-
-  .quote {
+  .quotes {
     display: flex;
-    flex-direction: row;
-    margin-top: 1.6rem;
-    padding: 0 4rem 0 4rem;
-    &__author {
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 6rem 5rem 6rem;
+    background: linear-gradient(208.18deg, #67c3f3 9.05%, #5a98f2 76.74%);
+    border-radius: 2rem;
+
+    h2 {
+      display: inline-block;
+      font-size: 3rem;
+      margin-bottom: 1.6rem;
+      color: #fff;
+    }
+
+    .border {
+      position: relative;
+      width: 7%;
+      height: 3px;
+      background-color: #fff;
+      margin: 0 auto;
+      @media only screen and (max-width: 960px) {
+        width: 25%;
+      }
+    }
+
+    .quote {
       display: flex;
       flex-direction: row;
-      align-items: center;
-      width: 100%;
-      margin-right: 3rem;
-    }
-    &__author-texts {
-      display: flex;
-      flex-direction: column;
-      margin-left: 2rem;
-      p {
-        color: #fff;
-        line-height: 0;
-        @media screen and (max-width: 960px) {
-          line-height: 2rem;
+      margin-top: 1.6rem;
+      &__author {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+        margin-right: 3rem;
+      }
+      &__author-texts {
+        display: flex;
+        flex-direction: column;
+        margin-left: 2rem;
+        p {
+          color: #fff;
+          line-height: 0;
+          @media screen and (max-width: 960px) {
+            line-height: 2rem;
+          }
+        }
+        p:first-child {
+          font-weight: 700;
         }
       }
-      p:first-child {
-        font-weight: 700;
+
+      &__text-box {
+        width: 100%;
+        p {
+          color: #fff;
+          line-height: 2.3rem;
+        }
       }
+      @media screen and (max-width: 960px) {
+        flex-direction: column;
+      }
+    }
+    
+  }
+  .circles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 10rem;
+    span {
+      height: 20px;
+      width: 20px;
+      margin: 0 3px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
     }
 
-    &__text-box {
-      width: 100%;
-      p {
-        color: #fff;
-        line-height: 2.3rem;
-      }
+    span::before {
+      content: "";
+      height: 10px;
+      width: 10px;
+      background-color: var(--color-primary-blue-dark);
+      opacity: 0.3;
+      border-radius: 50%;
+      transition: background-color 0.3s ease;
     }
-    @media screen and (max-width: 960px) {
-      flex-direction: column;
+
+    span:hover::before {
+      opacity: 1;
     }
   }
 }
@@ -438,7 +473,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 12rem;
+  margin-bottom: 10rem;
   span {
     height: 20px;
     width: 20px;
@@ -465,7 +500,7 @@ body {
 }
 
 .blog {
-  margin-bottom: 12rem;
+  margin-bottom: 10rem;
   position: relative;
   padding: 0 6rem 5rem 6rem;
   display: flex;
@@ -484,7 +519,7 @@ body {
     height: 100%;
   }
   @media only screen and (max-width: 960px) {
-    padding: 0 2rem 12rem 2rem;
+    padding: 0 2rem 10rem 2rem;
     margin-bottom: 5rem;
   }
 
