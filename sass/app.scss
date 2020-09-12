@@ -19,6 +19,7 @@ $font-primary: muli, sans-serif;
 }
 
 html {
+  overflow-x: hidden;
   box-sizing: border-box;
 }
 
@@ -366,9 +367,10 @@ body {
 
 .quotes-container {
   padding: 0 6rem 5rem 6rem;
-  @media screen and (max-width: 960px) {
-    padding-right: 3rem;
-    padding-left: 3rem;
+  @media only screen and (max-width: 960px) {
+    padding: 0;
+    margin-right: 2rem;
+    margin-left: 2rem;
   }
   .quotes {
     display: flex;
@@ -435,7 +437,6 @@ body {
         flex-direction: column;
       }
     }
-    
   }
   .circles {
     display: flex;
