@@ -7,7 +7,7 @@ I built this project for learning purposes. While building this project my goal 
 
 ## Other parts about project
 
-It is based on [[FIGMA FREEBIE] Landing page for a healthcare startup by by Aryo Pamungkas for SLAB Design Studio](https://dribbble.com/shots/12514026--FIGMA-FREEBIE-Landing-page-for-a-healthcare-startup)
+It is based on [[FIGMA FREEBIE] Landing page for a healthcare startup by Aryo Pamungkas for SLAB Design Studio](https://dribbble.com/shots/12514026--FIGMA-FREEBIE-Landing-page-for-a-healthcare-startup)
 
 
 ## Development
