@@ -10,6 +10,8 @@ export default () => (
       <button type="button" className="btn btn-rounded-big">
         Join Now
       </button>
+<a href="#" type="button" className="btn btn-rounded-big">Join Now link</a>
+
     </div>
     <div className="header__draw">
       <img
