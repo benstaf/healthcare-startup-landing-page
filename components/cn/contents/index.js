@@ -11,10 +11,14 @@ export default () => (
         />
       </div>
       <div className="providers__text-box">
-        <h1>Patient recruitment</h1>
+        <h1>Leading healthcare providers</h1>
         <div className="border" />
         <p>
-          In precision medicine clinical research, narrow patient eligibility criteria are often the bottleneck. Our network provides the scale to complete clinical trial enrollment faster.
+          Trafalgar provides progressive,
+          and affordable healthcare,
+          accessible on mobile and online for
+          everyone. To us, it’s not just work.
+          We take pride in the solutions we deliver
         </p>
       
       </div>
@@ -22,17 +26,20 @@ export default () => (
     <div className="providers">
       <div className="providers__text-box">
         <h1>
-          Data and Artificial Intelligence
+          Download our
+          mobile apps
         </h1>
         <div className="border" />
         <p>
-          We accelerate sharing of clinical and pre-clinical data, and deepen their analysis with relevant AI and machine learning algorithms. If you provide data, you are encouraged to be involved in the corresponding project.
+          Our dedicated patient engagement app and
+          web portal allow you to access information instantaneously (no tedeous form, long calls,
+          or administrative hassle) and securely
         </p>
 
       </div>
       <div className="providers__draw">
         <img
-          src="./assets/aiml.png"
+          src="./assets/illustration-3.svg"
           alt="illustration"
         />
       </div>
@@ -41,15 +48,19 @@ export default () => (
     <article className="providers">
       <div className="providers__draw">
         <img
-          src="./assets/investor.jpg"
+          src="./assets/illustration-2.svg"
           alt="illustration"
         />
       </div>
       <div className="providers__text-box">
-        <h1>Funding</h1>
+        <h1>Leading healthcare providers</h1>
         <div className="border" />
         <p>
-          We are supported by private investors (VCs, family offices, angel investors), who want to fund existing and new startup projects, and get privileged access to our proprietary deal flow.
+          Trafalgar provides progressive,
+          and affordable healthcare,
+          accessible on mobile and online for
+          everyone. To us, it’s not just work.
+          We take pride in the solutions we deliver
         </p>
 
       </div>

@@ -32,7 +32,7 @@ export default () => (
       </div>
       <div className="providers__draw">
         <img
-          src="./assets/aiml.png"
+          src="./assets/bigdata.jpg"
           alt="illustration"
         />
       </div>

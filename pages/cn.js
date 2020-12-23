@@ -2,7 +2,7 @@ import React from 'react';
 import Head from 'next/head';
 
 import {
-  Services, Contents, Hero, Navbar, Footer,
+  Services, Contents, Hero_cn, Navbar, Footer,
 } from '../components';
 
 export default () => (
@@ -11,7 +11,7 @@ export default () => (
       <title>ChingHub - Precision Medicine Hub</title>
     </Head>
     <Navbar />
-    <Hero />
+    <Hero_cn />
     <Services />
     <Contents />
     <Footer />

@@ -19,5 +19,6 @@ const articles = [
 
 export default () => (
   <section className="blog" id="blog">
+   
   </section>
 );

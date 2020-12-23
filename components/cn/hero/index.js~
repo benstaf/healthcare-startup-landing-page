@@ -13,7 +13,7 @@ export default () => (
     </div>
     <div className="header__draw">
       <img
-        src="./assets/world.svg"
+        src="./assets/illustration.svg"
         alt="illustration"
       />
     </div>
