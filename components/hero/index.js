@@ -7,10 +7,14 @@ export default () => (
       <p>
         ChingHub is a global network accelerating precision medicine and immunotherapy research
       </p>
+
+<a href="https://forms.gle/7HWsSW9phfpZYSJR9"  target="_blank" >
+
       <button type="button" className="btn btn-rounded-big">
         Join Now
       </button>
-<a href="#" type="button" className="btn btn-rounded-big">Join Now link</a>
+</a>
+
 
     </div>
     <div className="header__draw">

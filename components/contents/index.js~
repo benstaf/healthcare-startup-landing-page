@@ -14,7 +14,7 @@ export default () => (
         <h1>Patient recruitment</h1>
         <div className="border" />
         <p>
-          In precision medicine clinical research, narrow patient eligibility criteria are often the bottleneck. Our network provides the scale to complete clinical trial enrollment faster.
+          In precision medicine, narrow patient eligibility criteria are often the bottleneck. Our network provides the scale to complete clinical trial enrollment faster.
         </p>
       
       </div>
@@ -26,13 +26,13 @@ export default () => (
         </h1>
         <div className="border" />
         <p>
-          We accelerate sharing of clinical and pre-clinical data, and deepen their analysis with relevant AI and machine learning algorithms. If you provide data, you are encouraged to be involved in the corresponding project.
+          We accelerate sharing of clinical and pre-clinical data, and deepen their analysis with relevant machine learning algorithms. When providing data, you are invited to get involved in the corresponding project.
         </p>
 
       </div>
       <div className="providers__draw">
         <img
-          src="./assets/bigdata.jpg"
+          src="./assets/aiml.png"
           alt="illustration"
         />
       </div>

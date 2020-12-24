@@ -27,7 +27,7 @@ export default () => {
       <nav className="navbar">
         <div className="navbar__container container">
           <Link href="/" onClick={closeMobileMenu}>
-            <span><img src="./assets/image2vector_resized.svg" className="navbar__logo" alt="trafalgar logo" /></span>
+            <span><img src="./assets/image2vector.svg" className="navbar__logo" alt="trafalgar logo" /></span>
           </Link>
           <button type="button" className="menu-icon" onClick={handleClick}>
             {click ? <FaTimes /> : <FaBars />}
