@@ -5,30 +5,15 @@ import { IconContext } from 'react-icons/lib';
 
 // const routes = ['Home', 'Find a doctor', 'Apps', 'Testimonials', 'About Us'];
 const routes = [
+  
   {
-    name: 'Home',
-    anchor: 'hero',
+    name: 'Contact Us',
+    anchor: '#footer',
   },
   {
-    name: 'Find a doctor',
-    anchor: 'services',
-  },
-  {
-    name: 'Apps',
-    anchor: 'contents',
-  },
-  {
-    name: 'Testimonials',
-    anchor: 'quotes',
-  },
-  {
-    name: 'Blog',
-    anchor: 'blog',
-  },
-  {
-    name: 'About Us',
-    anchor: 'footer',
-  },
+    name: 'English',
+    anchor: '',
+  }
 ];
 
 export default () => {
@@ -42,7 +27,7 @@ export default () => {
       <nav className="navbar">
         <div className="navbar__container container">
           <Link href="/" onClick={closeMobileMenu}>
-            <span><img src="./assets/logo.svg" className="navbar__logo" alt="trafalgar logo" /></span>
+            <span><img src="./assets/image2vector_resized.svg" className="navbar__logo" alt="trafalgar logo" /></span>
           </Link>
           <button type="button" className="menu-icon" onClick={handleClick}>
             {click ? <FaTimes /> : <FaBars />}
@@ -50,7 +35,7 @@ export default () => {
           <ul className={click ? 'navbar__menu active' : 'navbar__menu'}>
             {routes.map((route) => (
               <li className="navbar__item">
-                <Link className="navbar__link" href={`/#${route.anchor}`} onClick={closeMobileMenu}>
+                <Link className="navbar__link" href={`/${route.anchor}`} onClick={closeMobileMenu}>
                   <span className="navbar__link">{route.name}</span>
                 </Link>
               </li>

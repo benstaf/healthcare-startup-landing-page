@@ -2,18 +2,31 @@ import Blog from './blog';
 import Contents from './contents';
 import Footer from './footer';
 import Hero from './hero';
-import Hero_cn from './hero_cn';
 import Navbar from './navbar';
 import Quotes from './quotes';
 import Services from './services';
+
+
+import Contents_cn from './contents_cn';
+import Footer_cn from './footer_cn';
+import Hero_cn from './hero_cn';
+import Navbar_cn from './navbar_cn';
+import Services_cn from './services_cn';
+
 
 export {
   Blog,
   Contents,
   Footer,
   Hero,
-  Hero_cn,
   Navbar,
   Quotes,
   Services,
+ Contents_cn,
+  Footer_cn,
+  Hero_cn,
+  Navbar_cn,
+  Services_cn,
+
+
 };

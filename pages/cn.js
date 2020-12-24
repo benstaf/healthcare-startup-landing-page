@@ -2,18 +2,18 @@ import React from 'react';
 import Head from 'next/head';
 
 import {
-  Services, Contents, Hero_cn, Navbar, Footer,
+  Services_cn, Contents_cn, Hero_cn, Navbar_cn, Footer_cn,
 } from '../components';
 
 export default () => (
   <div>
     <Head>
-      <title>ChingHub - Precision Medicine Hub</title>
+      <title> 精中心 (ChingHub) - 精密医学 中心</title>
     </Head>
-    <Navbar />
+    <Navbar_cn />
     <Hero_cn />
-    <Services />
-    <Contents />
-    <Footer />
+    <Services_cn />
+    <Contents_cn />
+    <Footer_cn />
   </div>
 );
