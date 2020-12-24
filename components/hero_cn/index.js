@@ -9,7 +9,7 @@ export default () => (
       </p>
 
 
-<a href="https://forms.yandex.ru/u/5fe4c0f7bca2896af8e97e0d/"  target="_blank" >
+<a href="https://forms.yandex.ru/u/5fe4c0f7bca2896af8e97e0d"  target="_blank" >
 
       <button type="button" className="btn btn-rounded-big">
 现在加入
