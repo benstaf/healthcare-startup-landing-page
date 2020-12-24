@@ -8,11 +8,11 @@ const routes = [
   
   {
     name: 'Contact Us',
-    anchor: 'footer',
+    anchor: '#footer',
   },
   {
     name: '中文',
-    anchor: 'blog',
+    anchor: 'cn',
   }
 ];
 
@@ -35,7 +35,7 @@ export default () => {
           <ul className={click ? 'navbar__menu active' : 'navbar__menu'}>
             {routes.map((route) => (
               <li className="navbar__item">
-                <Link className="navbar__link" href={`/#${route.anchor}`} onClick={closeMobileMenu}>
+                <Link className="navbar__link" href={`/${route.anchor}`} onClick={closeMobileMenu}>
                   <span className="navbar__link">{route.name}</span>
                 </Link>
               </li>

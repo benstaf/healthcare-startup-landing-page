@@ -26,12 +26,12 @@ export default () => (
 
 
       <ul>
-        <p>Contact</p>
+        <p>Contact Us</p>
         <li>
           <a href="mailto:mostapha@melwy.com">mostapha@melwy.com</a>
         </li>
         <li>
-          <a href="https://join.slack.com/t/newworkspace-e1t7616/shared_invite/zt-edehuali-y17HLOGtrchktDYRoV5xkw" target="_blank">Slack</a>
+          <a href="https://join.slack.com/t/dsformedicine/shared_invite/zt-kb1mk92u-tQ9FdZ6Iw45W8~p8yJDt4A" target="_blank">Slack</a>
         </li>
         <li>
           <a href="https://linkedin.com/in/mostapha-benhenda/" target="_blank">LinkedIn</a>
