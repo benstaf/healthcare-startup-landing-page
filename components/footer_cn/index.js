@@ -2,7 +2,7 @@ import React from 'react';
 import Logo from './logo';
 
 export default () => (
-  <footer className="footer" id="footer">
+  <footer className="footer" id="footer_cn">
     <div className="logo-container">
 <img src="./assets/logo_text_chinghub_footer_resized.svg"  />
       <p>

@@ -7,8 +7,8 @@ import { IconContext } from 'react-icons/lib';
 const routes = [
   
   {
-    name: 'Contact Us',
-    anchor: '#footer',
+    name: '联系我们',
+    anchor: '#footer_cn',
   },
   {
     name: 'English',

@@ -8,7 +8,7 @@ const routes = [
   
   {
     name: '联系我们',
-    anchor: '#footer',
+    anchor: 'cn#footer_cn',
   },
   {
     name: 'English',

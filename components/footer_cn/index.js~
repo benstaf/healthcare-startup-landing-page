@@ -6,7 +6,7 @@ export default () => (
     <div className="logo-container">
 <img src="./assets/logo_text_chinghub_footer_resized.svg"  />
       <p>
-        ChingHub is a global network accelerating precision medicine and immunotherapy research
+        精中心 (ChingHub) 是加速精密医学和免疫疗法研究的全球网络
       </p>
       <p>©ChingHub 2021. All rights reserved</p>
     </div>
@@ -26,7 +26,7 @@ export default () => (
 
 
       <ul>
-        <p>Contact Us</p>
+        <p>联系我们</p>
         <li>
           <a href="mailto:mostapha@melwy.com">mostapha@melwy.com</a>
         </li>
