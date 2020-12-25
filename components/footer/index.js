@@ -12,34 +12,29 @@ export default () => (
     </div>
    
  <div className="footer__links">
-      <ul>
-       
-      </ul>
-      <ul>
-       
-      </ul>
+     
 
-<ul>
-       
-      </ul>
-      
-
-
-      <ul>
+ <ul>
         <p>Contact Us</p>
         <li>
-          <a href="mailto:mostapha@melwy.com">mostapha@melwy.com</a>
+          EMEAA: Mostapha Benhenda <a  href="https://linkedin.com/in/mostapha-benhenda/" target="_blank">(LinkedIn profile)</a>
+        </li>
+       <li>
+          Asia-Pacific: Vincent Cai <a href="https://www.linkedin.com/in/%E5%8D%9A%E8%94%A1-%E6%99%AE-1885951b3/"  target="_blank">(LinkedIn profile)</a>
+        </li>
+     
+        <li>
+          General inquiries: <a href="mailto:info@chinghub.com">info@chinghub.com</a>
         </li>
         <li>
           <a href="https://join.slack.com/t/dsformedicine/shared_invite/zt-kb1mk92u-tQ9FdZ6Iw45W8~p8yJDt4A" target="_blank">Slack</a>
         </li>
-        <li>
-          <a href="https://linkedin.com/in/mostapha-benhenda/" target="_blank">LinkedIn</a>
-        </li>
+        
         <li>
           <a href="https://twitter.com/mostafabenh" target="_blank">Twitter</a>
         </li>
       </ul>
+
     </div>
 
   </footer>
