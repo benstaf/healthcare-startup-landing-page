@@ -49,7 +49,7 @@ export default () => (
         <h1>Funding</h1>
         <div className="border" />
         <p>
-          We are supported by private investors (VCs, family offices, angel investors), who want to fund existing and new startup projects, and get privileged access to our proprietary deal flow.
+          We are supported by private investors (VCs, family offices, angel investors), who want to fund existing and new startup projects, and get privileged access to our high-quality deal flow.
         </p>
 
       </div>
