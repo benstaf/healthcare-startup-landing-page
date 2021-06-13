@@ -46,10 +46,10 @@ export default () => (
         />
       </div>
       <div className="providers__text-box">
-        <h1>Patient recruitment</h1>
+        <h1>Business Development</h1>
         <div className="border" />
         <p>
-          In precision medicine, narrow patient eligibility criteria are often the bottleneck. Our global network provides the scale to complete clinical trial enrollment faster.
+We connect companies, and make deals happen, across continents and oceans. We elaborate collaborations between convergent agendas, especially for late-stage clinical trials and commercialization phases. Precision medicine requires precision partnerships.
         </p>
 
       </div>
