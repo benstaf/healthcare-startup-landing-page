@@ -5,7 +5,7 @@ export default () => (
     <div className="header__text-box">
       <h1>The New Precision Medicine Hub</h1>
       <p>
-        ChingHub is a global network accelerating precision medicine and immunotherapy research
+        ChingHub is a global network accelerating precision medicine and immunotherapy research and business
       </p>
 
 <a href="https://forms.gle/7HWsSW9phfpZYSJR9"  target="_blank" >
