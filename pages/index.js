@@ -7,7 +7,7 @@ import {
 
 export default () => (
   <div>
-    <Head>
+    <head>
       <title>ChingHub - Precision Medicine Hub</title>
 
 <meta name="image" property="og:image" content="./assets/illustration-2.svg"/>
@@ -23,7 +23,7 @@ export default () => (
 <meta name="twitter:description" content="ChingHub is a global network accelerating precision medicine and immunotherapy research" />
 <meta name="twitter:image" content="./assets/illustration-2.svg" />
 
-    </Head>
+    </head>
     <Navbar />
     <Hero />
     <Services />
