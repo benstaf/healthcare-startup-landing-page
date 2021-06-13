@@ -9,9 +9,7 @@ export default () => (
   <div>
     <Head>
       <title>ChingHub - Precision Medicine Hub</title>
-
 <meta name="image" property="og:image" content="./assets/illustration-2.svg"/>
-
     <meta
           property="og:description"
           content="ChingHub is a global network accelerating precision medicine and immunotherapy research"
@@ -22,12 +20,11 @@ export default () => (
 <meta name="twitter:title" content="Embed a Twitch Video into a React Website" />
 <meta name="twitter:description" content="ChingHub is a global network accelerating precision medicine and immunotherapy research" />
 <meta name="twitter:image" content="./assets/illustration-2.svg" />
-
-    <Head/>
+    </Head>
     <Navbar />
     <Hero />
     <Services />
     <Contents />
     <Footer />
-  <div/>
+  </div>
 );
