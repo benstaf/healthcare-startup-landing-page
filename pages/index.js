@@ -23,7 +23,7 @@ export default () => (
 <meta name="twitter:description" content="ChingHub is a global network accelerating precision medicine and immunotherapy research" />
 <meta name="twitter:image" content="./assets/illustration-2.svg" />
 
-    </Head>
+    <Head/>
     <Navbar />
     <Hero />
     <Services />
