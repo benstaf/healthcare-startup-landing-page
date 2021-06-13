@@ -41,7 +41,7 @@ export default () => (
     <article className="providers">
       <div className="providers__draw">
         <img
-          src="./assets/datacenter.jpg"
+          src="./assets/datascience.png"
           alt="illustration"
         />
       </div>
