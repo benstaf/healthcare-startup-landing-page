@@ -29,5 +29,5 @@ export default () => (
     <Services />
     <Contents />
     <Footer />
-  </div>
+  <div/>
 );
