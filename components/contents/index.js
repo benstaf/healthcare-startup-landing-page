@@ -22,17 +22,17 @@ export default () => (
     <div className="providers">
       <div className="providers__text-box">
         <h1>
-          Data and Artificial Intelligence
+          Business Development
         </h1>
         <div className="border" />
         <p>
-          We accelerate sharing of clinical and pre-clinical data, and deepen their analysis with relevant machine learning algorithms. When providing data, you are invited to get involved in the corresponding project.
+          We connect companies across continents and oceans. We make deals happen in late-stage clinical trials and commercialization phases. Precision medicine requires precision partnerships.
         </p>
 
       </div>
       <div className="providers__draw">
         <img
-          src="./assets/aiml.png"
+          src="./assets/illustration-2.svg"
           alt="illustration"
         />
       </div>
@@ -41,16 +41,16 @@ export default () => (
     <article className="providers">
       <div className="providers__draw">
         <img
-          src="./assets/illustration-2.svg"
+          src="./assets/aiml.png"
           alt="illustration"
         />
       </div>
       <div className="providers__text-box">
-        <h1>Business Development</h1>
+        <h1> Data and Artificial Intelligence </h1>
         <div className="border" />
         <p>
-We connect companies across continents and oceans. We make deals happen in late-stage clinical trials and commercialization phases. Precision medicine requires precision partnerships.
-        </p>
+          We accelerate sharing of clinical and pre-clinical data, and deepen their analysis with relevant machine learning algorithms. When providing data, you are invited to get involved in the corresponding project.
+          </p>
 
       </div>
     </article>
