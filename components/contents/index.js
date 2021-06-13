@@ -26,7 +26,7 @@ export default () => (
         </h1>
         <div className="border" />
         <p>
-          We connect companies across continents and oceans. We make deals happen in late-stage clinical trials and commercialization phases. Precision medicine requires precision partnerships.
+          We connect companies across continents and oceans. We make deals happen for clinical trials and commercialization phases. Precision medicine requires precision partnerships.
         </p>
 
       </div>
@@ -49,7 +49,7 @@ export default () => (
         <h1> Data and Artificial Intelligence </h1>
         <div className="border" />
         <p>
-          We accelerate sharing of clinical and pre-clinical data, and deepen their analysis with relevant machine learning algorithms. When providing data, you are invited to get involved in the corresponding project.
+          We accelerate sharing of clinical and pre-clinical data, and deepen their analysis with relevant machine learning algorithms. Data is the currency of precision medicine.
           </p>
 
       </div>
