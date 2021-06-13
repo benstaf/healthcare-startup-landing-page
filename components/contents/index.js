@@ -49,7 +49,7 @@ export default () => (
         <h1>Business Development</h1>
         <div className="border" />
         <p>
-We connect companies, and make deals happen, across continents and oceans. We elaborate collaborations between convergent agendas, especially for late-stage clinical trials and commercialization phases. Precision medicine requires precision partnerships.
+We connect companies across continents and oceans. We make deals happen in late-stage clinical trials and commercialization phases. Precision medicine requires precision partnerships.
         </p>
 
       </div>
