@@ -32,7 +32,7 @@ export default () => (
       </div>
       <div className="providers__draw">
         <img
-          src="./assets/illustration-2.svg"
+          src="./assets/bizdev.jpg"
           alt="illustration"
         />
       </div>
@@ -41,7 +41,7 @@ export default () => (
     <article className="providers">
       <div className="providers__draw">
         <img
-          src="./assets/aiml.png"
+          src="./assets/datacenter.jpg"
           alt="illustration"
         />
       </div>
