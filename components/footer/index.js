@@ -12,38 +12,7 @@ export default () => (
     </div>
    
  <div className="footer__links">
-       <ul>
-        <p>Homg Kong Office</p>
-        <li>
-         3A Chater Road, Central, Hong Kong 
-        </li>
-        <li>
-          <a href="/">Singapore</a>
-        </li>
-        <li>
-          <a href="/">Hongkong</a>
-        </li>
-        <li>
-          <a href="/">Canada</a>
-        </li>
-      </ul>
-  
-    <ul>
-        <p>Silicon Valley Office</p>
-        <li>
-     585 Glenwood Ave
-        </li>
-        <li>
-          Menlo Park, CA 94025 USA
-        </li>
-        <li>
-          USA
-        </li>
-        <li>
-          <a href="/">Canada</a>
-        </li>
-      </ul>
-
+      
  <ul>
         <p>Contact Us</p>
         <li>
