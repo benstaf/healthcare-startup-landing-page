@@ -8,10 +8,10 @@ export default () => (
         ChingHub is a global network accelerating precision medicine research and business
       </p>
 
-<a href="https://forms.gle/7HWsSW9phfpZYSJR9"  target="_blank" >
+<a href="https://calendly.com/mostaph/10min"  target="_blank" >
 
       <button type="button" className="btn btn-rounded-big">
-        Join Now
+        Call Us
       </button>
 </a>
 
