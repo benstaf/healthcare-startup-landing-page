@@ -12,7 +12,37 @@ export default () => (
     </div>
    
  <div className="footer__links">
-     
+       <ul>
+        <p>Region</p>
+        <li>
+          <a href="/">Indonesia</a>
+        </li>
+        <li>
+          <a href="/">Singapore</a>
+        </li>
+        <li>
+          <a href="/">Hongkong</a>
+        </li>
+        <li>
+          <a href="/">Canada</a>
+        </li>
+      </ul>
+  
+    <ul>
+        <p>Region</p>
+        <li>
+          <a href="/">Indonesia</a>
+        </li>
+        <li>
+          <a href="/">Singapore</a>
+        </li>
+        <li>
+          <a href="/">Hongkong</a>
+        </li>
+        <li>
+          <a href="/">Canada</a>
+        </li>
+      </ul>
 
  <ul>
         <p>Contact Us</p>
