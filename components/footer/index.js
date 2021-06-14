@@ -34,7 +34,7 @@ export default () => (
           Vincent Cai <a href="https://www.linkedin.com/in/%E5%8D%9A%E8%94%A1-%E6%99%AE-1885951b3/"  target="_blank">(LinkedIn)</a>
         </li>
      <li>
-          <a  href="https://calendly.com/mostaph/15min" target="_blank">📞 Schedule a 15-minutes call with us</a>
+          <a  href="https://calendly.com/mostaph/10min" target="_blank">🗓️ Schedule a 10-minutes video call with us</a>
         </li>
 
 
