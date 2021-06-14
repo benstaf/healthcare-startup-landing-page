@@ -13,9 +13,9 @@ export default () => (
    
  <div className="footer__links">
        <ul>
-        <p>Region</p>
+        <p>Homg Kong Office</p>
         <li>
-          <a href="/">Indonesia</a>
+         3A Chater Road, Central, Hong Kong 
         </li>
         <li>
           <a href="/">Singapore</a>
@@ -29,15 +29,15 @@ export default () => (
       </ul>
   
     <ul>
-        <p>Region</p>
+        <p>Silicon Valley Office</p>
         <li>
-          <a href="/">Indonesia</a>
+     585 Glenwood Ave
         </li>
         <li>
-          <a href="/">Singapore</a>
+          Menlo Park, CA 94025 USA
         </li>
         <li>
-          <a href="/">Hongkong</a>
+          USA
         </li>
         <li>
           <a href="/">Canada</a>
