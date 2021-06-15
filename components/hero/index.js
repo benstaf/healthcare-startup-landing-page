@@ -11,7 +11,7 @@ export default () => (
 <a href="https://calendly.com/mostaph/10min"  target="_blank" >
 
       <button type="button" className="btn btn-rounded-big">
-        Meet
+        Schedule a call
       </button>
 </a>
 
