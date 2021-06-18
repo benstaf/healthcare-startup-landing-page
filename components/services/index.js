@@ -8,6 +8,9 @@ export default () => (
       <p>
         ChingHub is a precision medicine ( 精准医学 <i>Ching-mi yichué </i> in Chinese) hub bringing together access to private funding, business partnerships, data and technologies.
       </p> 
+<p>
+We are Key Opinion Leaders of the field, and nurture a  global network of experts.
+</p>
     </article>
    
   </section>
