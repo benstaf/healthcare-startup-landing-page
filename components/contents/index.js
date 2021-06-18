@@ -16,7 +16,8 @@ export default () => (
         <p>
           We provide the right introduction to the right investor in China (Sinovation Ventures, Qiming...) the United States (A16Z, ARCH Ventures...), Europe (BPI France, HTGF...), Middle East (IBF, Mubadala...) and elsewhere in the world.
         </p>
-      
+      <p>We are Key Opinion Leaders of the field, and nurture a  global network of experts. </p>
+
       </div>
     </article>
     <div className="providers">
