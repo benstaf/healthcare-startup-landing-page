@@ -8,7 +8,7 @@ import {
 export default () => (
   <div>
     <Head>
-      <title>ChingHub - Precision Medicine Hub</title>
+      <title>ChingHub - Precision Medicine Network</title>
 <meta name="image" property="og:image" content="./assets/illustration-2.svg"/>
     <meta
           property="og:description"
