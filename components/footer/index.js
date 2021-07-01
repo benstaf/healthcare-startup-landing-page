@@ -10,6 +10,11 @@ export default () => (
       <p>
 2 Dongsan St, Zhongguancun, Beijing, 100080, China
       </p>
+      <p>
+  
+  8 Hennessy Road, Wan Chai, Hong Kong
+        </p>
+
 <p>
 585 Glenwood Ave, Menlo Park, CA 94025, USA
       </p>
