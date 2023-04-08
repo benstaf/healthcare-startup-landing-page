@@ -6,7 +6,7 @@ export default () => (
       <h2>Global Network</h2>
       <div className="border" />
       <p>
-        ChingHub is a precision medicine ( 精准医学 <i>Ching-mi yichué </i> in Chinese) hub bringing together access to private funding, business partnerships, data and technologies.
+ChingHub is a global hub facilitating access to private funding and partnerships, to address global challenges in Bio and Tech 
       </p> 
 
     </article>
