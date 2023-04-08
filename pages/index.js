@@ -12,7 +12,7 @@ export default () => (
 <meta name="image" property="og:image" content="./assets/illustration-2.svg"/>
     <meta
           property="og:description"
-          content="ChingHub is a global network accelerating precision medicine and immunotherapy research"
+          content="ChingHub is a global network accelerating research and business in Bio and Tech"
         />
         <meta property="og:image" content="./assets/illustration-2.svg" />
 <meta name="twitter:card" content="summary_large_image" />
