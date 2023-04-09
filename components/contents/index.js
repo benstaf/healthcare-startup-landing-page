@@ -14,7 +14,7 @@ export default () => (
         <h1>Funding</h1>
         <div className="border" />
         <p>
-          We provide the right introduction to the right investor in China (Sinovation Ventures, Qiming...) the United States (A16Z, ARCH Ventures...), Europe (BPI France, HTGF...), Middle East (IBF, Mubadala...) and elsewhere in the world.
+          We provide the right introduction to the right investor in China (Sinovation Ventures, Qiming...) the United States (A16Z, ARCH Ventures...), Europe (BPI France, HTGF...), Middle East (PIF, Mubadala...) and elsewhere in the world.
         </p>
       
       </div>
@@ -26,7 +26,7 @@ export default () => (
         </h1>
         <div className="border" />
         <p>
-          We connect companies across continents and oceans. We make deals happen for clinical trials and commercialization phases. Precision medicine requires precision partnerships.
+          We connect companies across continents and oceans. We make deals happen for clinical trials and commercialization phases.
         </p>
 
       </div>
@@ -37,23 +37,6 @@ export default () => (
         />
       </div>
     </div>
-
-    <article className="providers">
-      <div className="providers__draw">
-        <img
-          src="./assets/clipart.png"
-          alt="illustration"
-        />
-      </div>
-      <div className="providers__text-box">
-        <h1> Data and Artificial Intelligence </h1>
-        <div className="border" />
-        <p>
-          We accelerate sharing of clinical and pre-clinical data, and deepen their analysis with relevant machine learning algorithms. Data is the currency of precision medicine.
-          </p>
-
-      </div>
-    </article>
 
 
   </section>
