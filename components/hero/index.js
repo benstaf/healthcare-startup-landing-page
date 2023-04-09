@@ -3,9 +3,9 @@ import React from 'react';
 export default () => (
   <section className="header" id="hero">
     <div className="header__text-box">
-      <h1>The New Precision Medicine Hub</h1>
+      <h1>The New Tech & Medicine Hub</h1>
       <p>
-        ChingHub is a global network accelerating precision medicine research and business
+        ChingHub is a global network accelerating Tech and Medicine research and business
       </p>
 
 <a href="https://calendly.com/mostaph/10min"  target="_blank" >
