@@ -37,12 +37,12 @@ export default () => (
 
 
         <li>
-          General inquiries: <p> <a href="mailto:info@chinghub.com">info@chinghub.com</a> </p>
+          <a href="mailto:info@chinghub.com">info@chinghub.com</a> 
         </li>
 
        
         <li>
-      ©ChingHub 2021. All rights reserved
+      ©ChingHub 2023. All rights reserved
         </li>
 
 
