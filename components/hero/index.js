@@ -3,7 +3,7 @@ import React from 'react';
 export default () => (
   <section className="header" id="hero">
     <div className="header__text-box">
-      <h1>The New Tech & Medicine Hub</h1>
+      <h1>The Tech & Medicine Hub</h1>
       <p>
         ChingHub is a global network accelerating Tech and Medicine research and business
       </p>
