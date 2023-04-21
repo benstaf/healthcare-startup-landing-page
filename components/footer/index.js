@@ -8,7 +8,7 @@ export default () => (
 <p> <b> Our Offices </b> </p>
 
       <p>
-2 Dongsan St, Zhongguancun, Beijing, 100080, China
+8 Hennessy Road, Wan Chai, Hong Kong
       </p>
  
 <p>
