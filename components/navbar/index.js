@@ -3,16 +3,16 @@ import Link from 'next/link';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { IconContext } from 'react-icons/lib';
 
-// const routes = ['Home', 'Find a doctor', 'Apps', 'Testimonials', 'About Us'];
+// const routes = ['Home', 'Find a doctor', 'Apps', 'Testimonials', 'About Us']; ,
+ // {
+   // name: '中文',
+//    anchor: 'cn',
+//  }
 const routes = [
   
   {
     name: 'Contact Us',
     anchor: '#footer',
-  },
-  {
-    name: '中文',
-    anchor: 'cn',
   }
 ];
 
