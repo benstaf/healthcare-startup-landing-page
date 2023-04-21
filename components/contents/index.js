@@ -14,7 +14,7 @@ export default () => (
         <h1>Funding</h1>
         <div className="border" />
         <p>
-          We provide the right introduction to the right investor in China (Sinovation Ventures, Qiming...) the United States (A16Z, ARCH Ventures...), Europe (BPI France, HTGF...), Middle East (PIF, Mubadala...) and elsewhere in the world.
+          We provide the right introduction to the right investor in Asia (Sinovation Ventures, Qiming...), America (A16Z, ARCH Ventures...), Europe (BPI France, HTGF...), Middle East (PIF, Mubadala...) and elsewhere in the world.
         </p>
       
       </div>
