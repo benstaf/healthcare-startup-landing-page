@@ -15,7 +15,7 @@ export default () => (
       </div>
       <div className="services__card">
       <a href="https://www.science.org/content/blog-post/objections-some-drug-discovery-ai" target="_blank">
-        <img src="./assets/fortune.svg" alt="Science Translational Medicine" />
+        <img src="./assets/science_logo.svg" alt="Science" />
       </a>
         
       </div>
