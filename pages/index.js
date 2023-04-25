@@ -2,7 +2,7 @@ import React from 'react';
 import Head from 'next/head';
 
 import {
-  Services, Contents, Hero, Navbar, Footer,
+  Services, Contents, Media_Coverage, Hero, Navbar, Footer,
 } from '../components';
 
 export default () => (
@@ -25,6 +25,7 @@ export default () => (
     <Hero />
     <Services />
     <Contents />
+    <Media_Coverage />
     <Footer />
   </div>
 );
