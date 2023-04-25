@@ -12,7 +12,7 @@ export default () => (
       </p>
  
 <p>
-121 Avenue des Champs Elysées, 75008 Paris, France
+49 rue de Ponthieu, 75008 Paris, France
       </p>
 
 
