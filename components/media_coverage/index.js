@@ -9,11 +9,11 @@ export default () => (
     </article>
     <div className="services__cards">
       <div className="services__card">
-        <img src="./assets/search-doctor.svg" alt="search doctor" />
+        <img src="./assets/fortune.png" alt="Fortune Magazine" />
     
       </div>
       <div className="services__card">
-        <img src="./assets/online-pharmacy.svg" alt="online pharmacy" />
+        <img src="./assets/STMlogo.jpeg" alt="Science Translational Medicine" />
         
       </div>
       <div className="services__card">
