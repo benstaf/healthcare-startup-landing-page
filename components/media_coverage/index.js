@@ -17,7 +17,7 @@ export default () => (
         
       </div>
       <div className="services__card">
-        <img src="./assets/consultation.svg" alt="consultation" />
+        <img src="./assets/benchsci.svg" alt="BenchSci" />
      
       </div>
     </div>
