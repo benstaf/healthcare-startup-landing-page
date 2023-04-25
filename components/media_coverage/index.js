@@ -13,7 +13,7 @@ export default () => (
     
       </div>
       <div className="services__card">
-        <img src="./assets/STMlogo.jpeg" alt="Science Translational Medicine" />
+        <img src="./assets/trace.svg" alt="Science Translational Medicine" />
         
       </div>
       <div className="services__card">
