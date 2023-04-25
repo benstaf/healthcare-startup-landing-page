@@ -9,7 +9,7 @@ export default () => (
     </article>
     <div className="services__cards">
       <div className="services__card">
-        <img src="./assets/fortune.png" alt="Fortune Magazine" />
+        <img src="./assets/fortune.jpg" alt="Fortune Magazine" />
     
       </div>
       <div className="services__card">
