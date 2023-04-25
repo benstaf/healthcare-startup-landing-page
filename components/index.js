@@ -5,6 +5,7 @@ import Hero from './hero';
 import Navbar from './navbar';
 import Quotes from './quotes';
 import Services from './services';
+import Media_Coverage from './media_coverage';
 
 
 import Contents_cn from './contents_cn';
@@ -22,6 +23,7 @@ export {
   Navbar,
   Quotes,
   Services,
+  Media_Coverage,
  Contents_cn,
   Footer_cn,
   Hero_cn,
