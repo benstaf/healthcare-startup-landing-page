@@ -2,10 +2,9 @@ import React from 'react';
 import Head from 'next/head';
 
 import {
-  Services, Contents, Media_Coverage, Hero, Navbar, Footer,
+  Services, Contents, Media_Coverage, Hero, Navbar, Footer, ChatwootWidget, 
 } from '../components';
 
-import ChatwootWidget from '../components';
 
 
 export default () => (
