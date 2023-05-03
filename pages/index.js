@@ -5,6 +5,9 @@ import {
   Services, Contents, Media_Coverage, Hero, Navbar, Footer,
 } from '../components';
 
+import ChatwootWidget from '../components/ChatwootWidget';
+
+
 export default () => (
   <div>
     <Head>
@@ -27,5 +30,6 @@ export default () => (
     <Contents />
     <Media_Coverage />
     <Footer />
+    <ChatwootWidget />
   </div>
 );
