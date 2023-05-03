@@ -6,7 +6,7 @@ import Navbar from './navbar';
 import Quotes from './quotes';
 import Services from './services';
 import Media_Coverage from './media_coverage';
-
+import ChatwootWidget from './ChatwootWidget';
 
 import Contents_cn from './contents_cn';
 import Footer_cn from './footer_cn';
@@ -24,6 +24,7 @@ export {
   Quotes,
   Services,
   Media_Coverage,
+  ChatwootWidget,
  Contents_cn,
   Footer_cn,
   Hero_cn,
