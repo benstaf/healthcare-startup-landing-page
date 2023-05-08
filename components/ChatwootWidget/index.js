@@ -8,7 +8,7 @@ class ChatwootWidget extends React.Component {
       position: 'right', // This can be left or right
       locale: 'en', // Language to be set
       type: 'expanded_bubble', // [standard, expanded_bubble]
-      launcherTitle: 'Chat',
+      launcherTitle: 'Chat with us',
     };
 
     // Paste the script from inbox settings except the <script> tag
