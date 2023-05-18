@@ -29,7 +29,7 @@ export default () => (
   <iframe 
   src="https://docs.google.com/forms/d/e/1FAIpQLScApw9w8dhebGrGoKbCNbLQqjNoKfEMo3CUhrEuSFxnP4ZmpA/viewform?embedded=true" 
    width="100%"
-        style={{ maxWidth: '640px', width: '100%', height: '559px' }}
+        style={{ height: '559px' }}
        
   
   
