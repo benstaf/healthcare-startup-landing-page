@@ -24,6 +24,8 @@ export default () => (
 <meta name="twitter:image" content="./assets/illustration-2.svg" />
     </Head>
     <Navbar />
+  
+      <div style={{ textAlign: 'center' }}>
   <iframe 
   src="https://docs.google.com/forms/d/e/1FAIpQLScApw9w8dhebGrGoKbCNbLQqjNoKfEMo3CUhrEuSFxnP4ZmpA/viewform?embedded=true" 
    width="100%"
@@ -32,6 +34,8 @@ export default () => (
   
   
   frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
+
      <ChatwootWidget />
   </div>
 );
