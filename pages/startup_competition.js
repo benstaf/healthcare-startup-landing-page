@@ -24,7 +24,7 @@ export default () => (
 <meta name="twitter:image" content="./assets/illustration-2.svg" />
     </Head>
     <Navbar />
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScApw9w8dhebGrGoKbCNbLQqjNoKfEMo3CUhrEuSFxnP4ZmpA/viewform?embedded=true" width="640" height="559" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  <iframe style={{ textAlign: 'center' }} src="https://docs.google.com/forms/d/e/1FAIpQLScApw9w8dhebGrGoKbCNbLQqjNoKfEMo3CUhrEuSFxnP4ZmpA/viewform?embedded=true" width="640" height="559" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
      <ChatwootWidget />
   </div>
 );
