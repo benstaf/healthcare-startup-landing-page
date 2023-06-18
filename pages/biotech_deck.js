@@ -27,12 +27,13 @@ export default () => (
   
       <div style={{ textAlign: 'center' }}>
   <iframe 
-  src="https://drive.google.com/file/d/1TpEMAMyb4YWSUWIqvx3I_8liog7QfGyo/view" 
+
+  src="https://drive.google.com/file/d/1TpEMAMyb4YWSUWIqvx3I_8liog7QfGyo/preview" 
    width="100%"
         style={{ height: '559px' }}
        
   
-  
+  allow="autoplay"
   frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
