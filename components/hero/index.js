@@ -8,7 +8,7 @@ export default () => (
         ChingHub is a global network accelerating Tech and Medicine research and business
       </p>
 
-<a href="https://mostaphabenhenda.typeform.com/to/sHbRUQ9T"  target="_blank" >
+<a href="/sign_up"  target="_blank" >
 
       <button type="button" className="btn btn-rounded-big">
         Sign Up
