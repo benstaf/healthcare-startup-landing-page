@@ -26,7 +26,7 @@ export default () => (
     <Navbar />
   
       <div style={{ textAlign: 'center' }}>
-<a href="https://docs.google.com/presentation/d/2PACX-1vRyW1vLv-ER7HbQd7N8u7CBkMntdctg-a-cDUqtTvAkrTEiHFX9YhtcKWCb3RzbM5_K1c-gPm--3XOy/export/pptx"  >
+<a href="https://docs.google.com/presentation/d/1Xn8BfpwuO9Q6M9cUQVcAqmwTb3wduPiSh-WLrvirK90/edit?usp=sharing"  >
 
       <button type="button" className="btn btn-rounded-big"  style={{ marginBottom: '20px' }} >
         Download 
