@@ -26,14 +26,15 @@ export default () => (
     <Navbar />
   
       <div style={{ textAlign: 'center' }}>
-
+    <div className="header__text-box">
 <a href="/sign_up"  >
 
       <button type="button" className="btn btn-rounded-big">
-        Download PowerPoint file
+        Download 
       </button>
 </a>
-  
+            </div>
+            
             <iframe 
 
   src="https://docs.google.com/presentation/d/e/2PACX-1vRyW1vLv-ER7HbQd7N8u7CBkMntdctg-a-cDUqtTvAkrTEiHFX9YhtcKWCb3RzbM5_K1c-gPm--3XOy/embed?start=false&loop=false&delayms=3000" 
