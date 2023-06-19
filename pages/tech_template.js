@@ -26,14 +26,13 @@ export default () => (
     <Navbar />
   
       <div style={{ textAlign: 'center' }}>
-    <div className="header__text-box">
 <a href="/sign_up"  >
 
-      <button type="button" className="btn btn-rounded-big">
+      <button type="button" className="btn btn-rounded-big"  style={{ marginBottom: '20px' }} >
         Download 
       </button>
 </a>
-            </div>
+        
             
             <iframe 
 
