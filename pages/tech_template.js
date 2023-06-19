@@ -26,13 +26,14 @@ export default () => (
     <Navbar />
   
       <div style={{ textAlign: 'center' }}>
-<a href="https://docs.google.com/presentation/d/1Xn8BfpwuO9Q6M9cUQVcAqmwTb3wduPiSh-WLrvirK90/edit?usp=sharing"  >
+<a href="
+
+https://docs.google.com/presentation/d/1Xn8BfpwuO9Q6M9cUQVcAqmwTb3wduPiSh-WLrvirK90/export/pptx"  >
 
       <button type="button" className="btn btn-rounded-big"  style={{ marginBottom: '20px' }} >
         Download 
       </button>
 </a>
-        
             
             <iframe 
 
