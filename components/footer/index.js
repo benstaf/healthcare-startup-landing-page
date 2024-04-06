@@ -42,7 +42,7 @@ export default () => (
 
        
         <li>
-      ©ChingHub 2023. All rights reserved
+      ©ChingHub 2024. All rights reserved
         </li>
 
 
