@@ -28,7 +28,7 @@ export default () => (
       <div style={{ textAlign: 'center' }}>
   <iframe 
 
-  src="https://docs.google.com/presentation/d/e/2PACX-1vT8CjvVkw7q8NSd-tcEKbhwyOQrCSF3VRcVjykrQ1q8dvGQx1OPA5MQ39PbNtbTa9220EM11Q0Sycex/embed?start=false&loop=false&delayms=3000" 
+  src="https://docs.google.com/presentation/d/1_EZQdp74SOaHNoWGXsu5a7PRxsMgwNOuQFCj28wWDuo/edit?usp=drivesdkse&loop=false&delayms=3000" 
    width="100%"
         style={{ height: '559px' }}
        
